@@ -1,13 +1,13 @@
 # Hi, I'm Aniket Nerali 👋
 
 ## 🚀 About Me
-I'm a Analyst and Business Development professional with a Master's in 
+I'm a Data Analyst and Business Development  professional with a Master's in 
 Business Analytics from the University of Leeds. I combine technical expertise 
 in machine learning and data analysis with proven sales success.
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, R, Java  
+**Languages:** Python, SQL, R Programming, SAS Programming  
 **Data Science:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
 **Visualization:** Power BI, Matplotlib, Tableau  
 **Tools:** Git, Jupyter, Google Cloud, BigQuery
