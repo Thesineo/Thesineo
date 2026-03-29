@@ -1,7 +1,7 @@
 # Hi, I'm Aniket Nerali 👋
 
-### Data Scientist & Business Analytics Professional
-**MSc Business Analytics — University of Leeds**
+### Data & Business Analyst Professional
+
 
 I build and deliver end-to-end analytical projects  that solve real business problems — combining machine learning, deep learning and LLMs with clear business storytelling. Currently open to Data Analyst, Data Scientist and Business Intelligence roles.
 
