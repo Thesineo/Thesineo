@@ -3,7 +3,7 @@
 ### Data Scientist & Business Analytics Professional
 **MSc Business Analytics — University of Leeds**
 
-I build end-to-end data science systems that solve real business problems — combining machine learning, deep learning and LLMs with clear business storytelling. Currently open to Data Analyst, Data Scientist and Business Intelligence roles.
+I build and deliver end-to-end analytical projects  that solve real business problems — combining machine learning, deep learning and LLMs with clear business storytelling. Currently open to Data Analyst, Data Scientist and Business Intelligence roles.
 
 ---
 
